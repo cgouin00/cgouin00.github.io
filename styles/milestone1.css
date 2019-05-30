@@ -1,0 +1,26 @@
+body { font-family: Georgia,"Times New Roman", serif;
+	   color: blue;
+	   background-color: rgb(181,191,176);
+	   font-size: 100%;
+       width: 80%;
+	   margin-right: auto;
+	   margin-left: auto;
+	   min-width: 900px;
+	   max-width: 1280px;
+	   border-width: 3px;
+	   border-style: solid;
+	   border-color: blue;
+	   box-shadow: 5px 5px 5px #000000;}
+footer{ text-align: center;}
+dl { line-height: 200%;
+ padding-left: 0px;
+			padding-right: 0px;}
+dd { color: rgb(135,135,67);}
+h1 {text-align: center;
+	text-shadow: 2px 2px 2px #000000;
+	text-transform: uppercase;
+	letter-spacing: 35px;
+	background-color: rgb(242,242,242);}
+.details {  padding-left: 20px;
+			padding-right: 20px;
+			text-align: left;}
