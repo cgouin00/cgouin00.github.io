@@ -1,8 +1,8 @@
 body { font-family: Georgia,"Times New Roman", serif;
 	   color: blue;
-	   background-color: rgb(181,191,176);
-	   font-size: 100%;
-       width: 80%;
+	   background-color: rgb(124,163,118);}	   
+main { background-color: rgb(181,191,176);
+	   width: 80%;
 	   margin-right: auto;
 	   margin-left: auto;
 	   min-width: 900px;
@@ -11,16 +11,28 @@ body { font-family: Georgia,"Times New Roman", serif;
 	   border-style: solid;
 	   border-color: blue;
 	   box-shadow: 5px 5px 5px #000000;}
-footer{ text-align: center;}
 dl { line-height: 200%;
- padding-left: 0px;
-			padding-right: 0px;}
-dd { color: rgb(135,135,67);}
+	 padding-left: 0px;
+	 padding-right: 0px;}
+dd { color: green ;}
 h1 {text-align: center;
-	text-shadow: 2px 2px 2px #000000;
+	text-shadow: 2px 2px 2px #969696;
 	text-transform: uppercase;
 	letter-spacing: 35px;
 	background-color: rgb(242,242,242);}
-.details {  padding-left: 20px;
-			padding-right: 20px;
-			text-align: left;}
+h2 { text-align: center;
+	text-shadow: 2px 2px 2px #969696;
+	text-transform: uppercase; }
+p { padding-left: 15px;
+	padding-right: 15px;}
+table { width: 80%;
+		margin: auto;
+		background-color: rgb(242,242,242);
+		border: 5px;
+		margin-bottom: 40px;
+		}
+footer{ text-align: center;}
+.details { padding-left: 20px;
+		   padding-right: 20px;
+		   text-align: left;}
+#floatcenter { float: center;}
