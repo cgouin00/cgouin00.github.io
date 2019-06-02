@@ -1,6 +1,7 @@
 body { font-family: Georgia,"Times New Roman", serif;
 	   color: blue;
-	   background-color: rgb(124,163,118);}	   
+	   background-color: rgb(124,163,118);
+	   font-size: 1em;}	   
 main { background-color: rgb(181,191,176);
 	   width: 80%;
 	   margin-right: auto;
@@ -23,6 +24,10 @@ h1 {text-align: center;
 h2 { text-align: center;
 	text-shadow: 2px 2px 2px #969696;
 	text-transform: uppercase; }
+h4 { text-align: center;
+	text-shadow: 2px 2px 2px #969696;}
+h5 { text-align: center;
+	text-shadow: 2px 2px 2px #969696;}
 p { padding-left: 15px;
 	padding-right: 15px;}
 table { width: 80%;
