@@ -12,6 +12,7 @@ main { background-color: rgb(181,191,176);
 	   border-style: solid;
 	   border-color: blue;
 	   box-shadow: 5px 5px 5px #000000;}
+main div { text-align: center;}
 dl { line-height: 200%;
 	 padding-left: 0px;
 	 padding-right: 0px;}
@@ -29,14 +30,21 @@ h4 { text-align: center;
 h5 { text-align: center;
 	text-shadow: 2px 2px 2px #969696;}
 p { padding-left: 15px;
-	padding-right: 15px;}
+	padding-right: 15px;
+	color: green;}
+ol {color: green;}
+ul {color: green;}
 table { width: 80%;
 		margin: auto;
 		background-color: rgb(242,242,242);
 		border: 5px;
 		margin-bottom: 40px;
-		text-align: center;
-		}
+		text-align: center;	}
+a { text-decoration: none;
+	color: rgb(50, 50, 50);
+	text-shadow: 2px 2px 2px #969696;}
+a:visited { color: rgb(50,160,150);}
+a:hover { color: rgb(242,242,242);}
 td { border: 1px solid blue;}
 footer{ text-align: center;}
 .details { padding-left: 20px;
