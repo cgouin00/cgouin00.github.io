@@ -3314,3 +3314,39 @@ input, select, textarea {
 			}
 
 	}
+	
+.fbrow {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 4px;
+}
+
+/* Create two equal columns that sit next to each other */
+.fbcolumn {
+  flex: 50%;
+  max-width: 50%;
+  padding: 0 4px;
+}
+
+.fbcolumn img {
+  margin-top: 8px;
+  vertical-align: middle;
+  width: 100%;
+}
+
+/* Responsive layout - makes a two column-layout instead of four columns 
+@media screen and (max-width: 800px) {
+  .fbcolumn {
+    flex: 50%;
+    max-width: 50%;
+  }
+}
+*/
+
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .fbcolumn {
+    flex: 100%;
+    max-width: 100%;
+  }
+}
