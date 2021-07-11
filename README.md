@@ -1,7 +1,7 @@
 # cgouin00.github.io
 
 This is sort of a pseudo-highlights quasi resume.
-Althoug it is not in any way complete, it's more tailored
+Although it is not in any way complete, it's more tailored
 towards the areas that I hope to go further in.
 ( Being building automation and controls. )
 
